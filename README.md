@@ -52,8 +52,8 @@ A dynamic, responsive course calendar application built with PHP, MySQL, and Jav
 ### Quick Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/course-calendar.git
-   cd course-calendar
+   git clone https://github.com/An-Uncreative/Google_calendar_clone.git
+   cd Google_calendar_clone
    ```
 
 2. **Database Configuration**
@@ -226,11 +226,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**[Your Name]**
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💻 GitHub: [@yourusername](https://github.com/yourusername)
+**An-Uncreative**
+- � GitHub: [@An-Uncreative](https://github.com/An-Uncreative)
+- 📂 Project Repository: [Google Calendar Clone](https://github.com/An-Uncreative/Google_calendar_clone)
 
 ## 🙏 Acknowledgments
 
@@ -243,6 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **If you found this project helpful, please give it a star!**
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/course-calendar?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/course-calendar?style=social)
-![GitHub license](https://img.shields.io/github/license/yourusername/course-calendar)
+![GitHub stars](https://img.shields.io/github/stars/An-Uncreative/Google_calendar_clone?style=social)
+![GitHub forks](https://img.shields.io/github/forks/An-Uncreative/Google_calendar_clone?style=social)
+![GitHub license](https://img.shields.io/github/license/An-Uncreative/Google_calendar_clone)
