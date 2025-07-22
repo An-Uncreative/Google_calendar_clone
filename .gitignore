@@ -1,0 +1,69 @@
+# Database Configuration (IMPORTANT: Never commit passwords!)
+connection.php
+config.local.php
+.env
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs and Runtime Files
+*.log
+error_log
+error.log
+access.log
+php_errors.log
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Cache and Session Files
+cache/
+sessions/
+uploads/
+
+# Node.js (if you add any build tools later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Composer (PHP package manager)
+vendor/
+composer.lock
+
+# Local Development Files
+.htaccess.local
+local_config.php
+
+# System Files
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage and Testing
+coverage/
+.nyc_output/
+phpunit.xml
+.phpunit.result.cache
