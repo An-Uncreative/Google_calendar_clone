@@ -58,10 +58,10 @@ A dynamic, responsive course calendar application built with PHP, MySQL, and Jav
 
 2. **Database Configuration**
    ```sql
-   -- Create database
+   -- Create database in phpMyAdmin or MySQL command line
    CREATE DATABASE calendar;
    
-   -- Import structure (copy from database/calendar.sql)
+   -- Import structure and sample data
    mysql -u root -p calendar < database/calendar.sql
    ```
 
