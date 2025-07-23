@@ -2,7 +2,26 @@
 
 A dynamic, responsive course calendar application built with PHP, MySQL, and JavaScript for managing academic schedules and events.
 
-![Calendar Preview](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Calendar+Application+Screenshot)
+## 🖼️ Screenshots
+
+### Main Calendar View
+![Calendar Main View](screenshots/calendar-main.png)
+*Interactive monthly calendar with event display and real-time clock*
+
+### Event Management
+![Add Event Modal](screenshots/add-event-modal.png)
+*Clean modal interface for adding new events*
+
+![Edit Event Modal](screenshots/edit-event-modal.png)
+*Intuitive event editing with pre-filled forms*
+
+### Mobile Responsive
+![Mobile View](screenshots/mobile-view.png)
+*Touch-friendly responsive design for all devices*
+
+### Live Demo Features
+![Demo GIF](screenshots/calendar-demo.gif)
+*Full functionality demonstration - navigation, CRUD operations, and responsive design*
 
 ## 🚀 Features
 
