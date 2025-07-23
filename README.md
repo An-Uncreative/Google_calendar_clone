@@ -2,6 +2,8 @@
 
 A dynamic, responsive course calendar application built with PHP, MySQL, and JavaScript for managing academic schedules and events.
 
+> **💻 Local Demo Available**: This application runs perfectly on MAMP/XAMPP. Follow the installation guide below for a complete working demo with sample data.
+
 ## 🖼️ Screenshots
 
 ### Main Calendar View
