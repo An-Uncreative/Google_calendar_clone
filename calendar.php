@@ -1,6 +1,12 @@
 <?php
 
-include 'connection.php';
+// Use Railway connection file if it exists, otherwise use local connection
+if (file_exists('connection-railway.php')) {
+    include 'connection-railway.php';
+} else {
+    include 'connection.php';
+}
+
 // Initialize variables
 $successMsg = '';
 $errorMsg = '';
