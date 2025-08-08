@@ -22,8 +22,8 @@ A dynamic, responsive course calendar application built with PHP, MySQL, and Jav
 *Touch-friendly responsive design for all devices*
 
 ### Live Demo Features
-![Demo GIF](screenshots/calendar-demo.gif)
-*Full functionality demonstration - navigation, CRUD operations, and responsive design*
+![Demo Video](screenshots/calendar-demo.gif)
+*35-second demonstration showing navigation, CRUD operations, and responsive design*
 
 ## 🚀 Features
 
